@@ -1,0 +1,1 @@
+Real Madrid 2025/26 Season: Pre/Post Clasico Sentiment Analysis. This project ivestigates xG data and public sentiment regarding ReaL Madrid before and after the first El Clásico of 25/26 La Liga season. 
